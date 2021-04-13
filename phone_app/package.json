@@ -1,0 +1,12 @@
+{
+  "name": "phone_app",
+  "version": "1.0.0",
+  "description": "playing with peerjs",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "peer": "^0.6.1",
+    "peerjs": "^1.3.2"
+  }
+}
